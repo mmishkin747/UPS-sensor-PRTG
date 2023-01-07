@@ -2,7 +2,7 @@
 
 This script use with sistem monitoring PRTG as custom sensor.
 
-The script connects throuse telnet, get data, return json for prtg
+The script connects throuse telnet to  Uninterruptible Power Supply , get data, return json for PRTG
 
 Parametres UPS:
 
